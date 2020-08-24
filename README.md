@@ -4,6 +4,7 @@
 [leetcode](https://leetcode.com/problemset/algorithms/)  
 [书影博客题解](http://bookshadow.com/leetcode/)  
 
+5.最长回文子串
 23.合并K个排序链表  
 53.最大子序和  
 69.x的平方根  
